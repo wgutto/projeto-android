@@ -97,8 +97,8 @@ article h1 {
 article h2 {
     font-family: var(--font-android);
     background: linear-gradient(to right, #c5edb6, white);
-    padding: 5px;
-    font-size: 18px;
+    padding: 10px;
+    font-size: 22px;
     font-weight: normal;
     border-radius: 3px;
     color: var(--cor04);
@@ -195,4 +195,9 @@ footer {
     text-align: center;
     padding: 5px;
     margin-top: 20px;
+}
+footer a {
+    text-decoration: underline;
+    color: white;
+    font-weight: bold;
 }
